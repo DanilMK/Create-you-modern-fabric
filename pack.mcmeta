@@ -1,0 +1,90 @@
+{
+  "pack": {
+    "pack_format": 10,
+    "description": "Modern Industrialization X Create"
+  },
+    "filter": {
+        "block": [
+            {
+                "namespace": "emerald_tools",
+                "path": "recipes/ruby.json"
+            },
+            {
+                "namespace": "emerald_tools",
+                "path": "recipes/steel_block_from_ingot.json"
+            },
+            {
+                "namespace": "emerald_tools",
+                "path": "recipes/steel_block_to_ingot.json"
+            },
+            {
+                "namespace": "emerald_tools",
+                "path": "recipes/steel_ingot.json"
+            },
+            {
+                "namespace": "modern_industrialization",
+                "path": "recipes/vanilla_recipes/mixer/red_sand.json"
+            },
+            {
+                "namespace": "modern_industrialization",
+                "path": "recipes/vanilla_recipes/mixer/andesite.json"
+            },
+            {
+                "namespace": "modern_industrialization",
+                "path": "recipes/vanilla_recipes/mixer/calcite.json"
+            },
+            {
+                "namespace": "modern_industrialization",
+                "path": "recipes/vanilla_recipes/mixer/cobbled_deepslate.json"
+            },
+            {
+                "namespace": "modern_industrialization",
+                "path": "recipes/vanilla_recipes/mixer/cobblestone.json"
+            },
+            {
+                "namespace": "modern_industrialization",
+                "path": "recipes/vanilla_recipes/mixer/dripstone.json"
+            },
+            {
+                "namespace": "modern_industrialization",
+                "path": "recipes/vanilla_recipes/mixer/endstone.json"
+            },
+            {
+                "namespace": "modern_industrialization",
+                "path": "recipes/vanilla_recipes/mixer/granite.json"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "recipes/bread.json"
+            },
+            {
+                "namespace": "create",
+                "path": "recipes/smelting/scoria.json"
+            },
+            {
+                "namespace": "create",
+                "path": "recipes/smelting/scorchia.json"
+            },
+            {
+                "namespace": "create",
+                "path": "recipes/pressing/.*"
+            },
+            {
+                "namespace": "createaddition",
+                "path": "recipes/rolling/.*"
+            },
+            {
+                "namespace": "createaddition",
+                "path": "recipes/pressing/.*"
+            },
+            {
+                "namespace": "create",
+                "path": "recipes/crafting/kinetics/shaft.json"
+            },
+            {
+                "namespace": "create",
+                "path": "structures/.*"
+            }
+		]
+	}
+}
