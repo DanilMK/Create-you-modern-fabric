@@ -1,0 +1,12 @@
+{
+  "feature": "smok:iridium_ore",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 10
+    },
+    {
+      "type": "minecraft:in_square"
+    }
+  ]
+}

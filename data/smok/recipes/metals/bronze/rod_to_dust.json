@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "processingTime": 100,
+    "ingredients": [
+        {
+            "tag": "c:bronze_rods"
+        }
+    ],
+    "results": [
+        {
+            "item": "modern_industrialization:bronze_tiny_dust",
+			"count": 4
+        }
+    ]
+}

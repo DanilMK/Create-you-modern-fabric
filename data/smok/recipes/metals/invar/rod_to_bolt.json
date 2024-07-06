@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "processingTime": 100,
+  "ingredients": [
+    {
+      "tag": "c:invar_rods"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:invar_bolt",
+	  "count": 2
+    }
+  ]
+}

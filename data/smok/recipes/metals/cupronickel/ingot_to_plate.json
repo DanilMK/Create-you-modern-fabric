@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:cupronickel_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:cupronickel_plate"
+    }
+  ]
+}

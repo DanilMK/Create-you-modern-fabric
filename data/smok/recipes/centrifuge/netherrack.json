@@ -1,0 +1,29 @@
+{
+  "type": "modern_industrialization:centrifuge",
+  "eu": 4,
+  "duration": 240,
+  "item_inputs": {
+    "item": "create:cinder_flour",
+    "amount": 3
+  },
+    "item_outputs": [
+      {
+		"item": "minecraft:redstone",
+		"amount": 1
+      },
+      {
+		"item": "modern_industrialization:lignite_coal_dust",
+		"amount": 1
+      },
+      {
+		"item": "modern_industrialization:sulfur_dust",
+		"amount": 1
+      },
+      {
+		"item": "modern_industrialization:neodymium_tiny_dust",
+		"amount": 3,
+        "probability" : 0.2
+      }
+    ]
+  
+}

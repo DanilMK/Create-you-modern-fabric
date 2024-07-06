@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:annealed_copper_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:annealed_copper_plate"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "processingTime": 100,
+  "ingredients": [
+    {
+      "tag": "c:stainless_steel_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:stainless_steel_rod"
+    }
+  ]
+}

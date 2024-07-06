@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:beryllium_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:beryllium_plate"
+    }
+  ]
+}

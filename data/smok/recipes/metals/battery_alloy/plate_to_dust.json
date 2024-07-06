@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "processingTime": 100,
+    "ingredients": [
+        {
+            "tag": "c:battery_alloy_plates"
+        }
+    ],
+    "results": [
+        {
+            "item": "modern_industrialization:battery_alloy_dust"
+        }
+    ]
+}

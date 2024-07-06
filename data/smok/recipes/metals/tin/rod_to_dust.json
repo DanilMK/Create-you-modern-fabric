@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "processingTime": 100,
+    "ingredients": [
+        {
+            "tag": "c:tin_rods"
+        }
+    ],
+    "results": [
+        {
+            "item": "modern_industrialization:tin_tiny_dust",
+			"count": 4
+        }
+    ]
+}

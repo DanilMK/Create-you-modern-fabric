@@ -1,0 +1,23 @@
+{
+  "type": "modern_industrialization:mixer",
+  "duration": 200,
+  "eu": 8,
+  "item_inputs": [
+    {
+      "amount": 1,
+      "tag": "c:emeralds"
+    }
+  ],
+  "fluid_inputs": [
+    {
+      "amount": 300,
+      "fluid": "create_enchantment_industry:experience"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 1,
+      "item": "emerald_tools:ruby"
+    }
+  ]
+}

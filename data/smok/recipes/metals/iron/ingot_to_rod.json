@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "processingTime": 100,
+  "ingredients": [
+    {
+      "tag": "c:iron_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:iron_rod"
+    }
+  ]
+}

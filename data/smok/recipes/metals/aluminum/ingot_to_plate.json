@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:aluminum_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:aluminum_plate"
+    }
+  ]
+}

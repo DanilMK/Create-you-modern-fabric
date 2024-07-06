@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:iron_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:iron_plate"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "processingTime": 120,
+  "results": [
+    {
+      "count": 3,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

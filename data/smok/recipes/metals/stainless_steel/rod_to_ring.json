@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:stainless_steel_rods"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:stainless_steel_ring"
+    }
+  ]
+}

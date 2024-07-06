@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:sculk_catalyst"
+    }
+  ],
+  "processingTime": 120,
+  "results": [
+    {
+      "item": "create:experience_nugget",
+	  "amount": 5
+    }
+  ]
+}

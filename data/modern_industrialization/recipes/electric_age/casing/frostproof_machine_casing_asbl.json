@@ -1,0 +1,22 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern" : [
+    "ABA",
+    "BGB",
+    "ABA"
+  ],
+  "key": {
+    "A" : {
+      "tag": "c:aluminum_plates"
+    },
+    "G" : {
+      "tag" : "c:aluminum_gears"
+    },
+    "B" : {
+      "tag" : "smok:frostproof_wood"
+    }
+  },
+  "result": {
+    "item": "modern_industrialization:frostproof_machine_casing"
+  }
+}

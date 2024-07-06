@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:nickel_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:nickel_plate"
+    }
+  ]
+}

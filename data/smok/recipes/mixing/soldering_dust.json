@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "c:lead_dust"
+    },
+    {
+      "tag": "c:tin_dusts"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "modern_industrialization:soldering_alloy_dust"
+    }
+  ]
+}

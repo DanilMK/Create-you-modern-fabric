@@ -1,0 +1,18 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "c:tin_rods"
+    },
+    {
+      "item": "modern_industrialization:tin_curved_plate",
+	  "count": 2
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:tin_blade",
+	  "count": 4
+    }
+  ]
+}

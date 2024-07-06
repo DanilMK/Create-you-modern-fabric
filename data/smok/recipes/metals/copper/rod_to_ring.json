@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:copper_rods"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:copper_ring"
+    }
+  ]
+}

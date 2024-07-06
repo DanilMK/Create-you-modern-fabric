@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "processingTime": 100,
+    "ingredients": [
+        {
+            "tag": "c:aluminum_ingots"
+        }
+    ],
+    "results": [
+        {
+            "item": "modern_industrialization:aluminum_dust"
+        }
+    ]
+}

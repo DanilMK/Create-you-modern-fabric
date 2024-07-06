@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:carbon_dusts"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:carbon_plate"
+    }
+  ]
+}

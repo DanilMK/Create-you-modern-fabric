@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:gold_plates"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:gold_curved_plate"
+    }
+  ]
+}

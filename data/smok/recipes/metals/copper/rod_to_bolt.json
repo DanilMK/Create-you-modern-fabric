@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "processingTime": 100,
+  "ingredients": [
+    {
+      "tag": "c:copper_rods"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:copper_bolt",
+	  "count": 2
+    }
+  ]
+}

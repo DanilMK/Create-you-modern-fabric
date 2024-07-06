@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:quartz"
+    },
+    {
+      "amount": 8100,
+      "fluid": "modern_industrialization:molten_redstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:rose_quartz"
+    }
+  ]
+}

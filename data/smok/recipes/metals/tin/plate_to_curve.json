@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:tin_plates"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:tin_curved_plate"
+    }
+  ]
+}

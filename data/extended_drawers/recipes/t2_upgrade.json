@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "BMB",
+    "SSS"
+  ],
+  "key": {
+    "M": {
+      "item": "modern_industrialization:bronze_machine_casing"
+    },
+    "B": {
+      "item": "extended_drawers:t1_upgrade"
+    },
+    "S": {
+      "item": "modern_industrialization:steel_rod"
+    }
+  },
+  "result": {
+    "item": "extended_drawers:t2_upgrade"
+  }
+}

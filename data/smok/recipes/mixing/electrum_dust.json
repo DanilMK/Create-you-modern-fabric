@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:gold_dusts"
+    },
+    {
+      "tag": "c:silver_dusts"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "modern_industrialization:electrum_dust"
+    }
+  ]
+}

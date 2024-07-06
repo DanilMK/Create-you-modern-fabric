@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "processingTime": 100,
+    "ingredients": [
+        {
+            "tag": "c:kanthal_plates"
+        }
+    ],
+    "results": [
+        {
+            "item": "modern_industrialization:kanthal_dust"
+        }
+    ]
+}

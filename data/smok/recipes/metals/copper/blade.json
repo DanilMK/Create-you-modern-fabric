@@ -1,0 +1,18 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "c:copper_rods"
+    },
+    {
+      "item": "modern_industrialization:copper_curved_plate",
+	  "count": 2
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:copper_blade",
+	  "count": 4
+    }
+  ]
+}

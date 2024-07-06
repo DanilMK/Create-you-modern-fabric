@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "amount": 81000,
+      "fluid": "create:honey"
+    },
+    {
+      "amount": 81000,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "amount": 162000,
+      "fluid": "modern_industrialization:sugar_solution"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "c:stainless_steel_rods"
+    },
+    {
+      "item": "modern_industrialization:stainless_steel_curved_plate",
+	  "count": 2
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:stainless_steel_blade",
+	  "count": 4
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "scs",
+    "cgc",
+    "scs"
+  ],
+  "key": {
+    "s": {
+      "item": "modern_industrialization:copper_rod"
+    },
+    "c": {
+      "item": "modern_industrialization:copper_curved_plate"
+    },
+    "g": {
+      "tag": "c:iron_gears"
+    }
+  },
+  "result": {
+    "item": "extended_drawers:upgrade_frame",
+	"count": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "processingTime": 100,
+    "ingredients": [
+        {
+            "tag": "c:electrum_plates"
+        }
+    ],
+    "results": [
+        {
+            "item": "modern_industrialization:electrum_dust"
+        }
+    ]
+}

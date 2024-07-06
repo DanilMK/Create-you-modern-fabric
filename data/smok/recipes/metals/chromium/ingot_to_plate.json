@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:chromium_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:chromium_plate"
+    }
+  ]
+}

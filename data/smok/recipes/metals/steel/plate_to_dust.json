@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "processingTime": 100,
+    "ingredients": [
+        {
+            "tag": "c:steel_plates"
+        }
+    ],
+    "results": [
+        {
+            "item": "modern_industrialization:steel_dust"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "processingTime": 100,
+    "ingredients": [
+        {
+            "tag": "c:tin_ingots"
+        }
+    ],
+    "results": [
+        {
+            "item": "modern_industrialization:tin_dust"
+        }
+    ]
+}

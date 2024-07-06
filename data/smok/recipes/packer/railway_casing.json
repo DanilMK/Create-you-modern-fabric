@@ -1,0 +1,18 @@
+{
+  "type": "modern_industrialization:packer",
+  "duration": 50,
+  "eu": 2,
+  "item_inputs": [
+    {
+      "item": "create:brass_casing"
+    },
+    {
+      "tag": "c:obsidian_plates"
+    }
+  ],
+  "item_outputs": [
+    {
+      "item": "create:railway_casing"
+    }
+  ]
+}

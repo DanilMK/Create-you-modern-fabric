@@ -1,0 +1,62 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "modern_industrialization:aluminum_ring"
+  },
+  "loops": 4,
+  "results": [
+    {
+      "item": "modern_industrialization:aluminum_gear"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "modern_industrialization:aluminum_ring"
+        },
+        {
+          "item": "modern_industrialization:aluminum_plate"
+        }
+      ],
+      "results": [
+        {
+          "item": "modern_industrialization:aluminum_ring"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "modern_industrialization:aluminum_ring"
+        },
+        {
+          "item": "modern_industrialization:aluminum_bolt"
+        }
+      ],
+      "results": [
+        {
+          "item": "modern_industrialization:aluminum_ring"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "modern_industrialization:aluminum_ring"
+        }
+      ],
+      "results": [
+        {
+          "item": "modern_industrialization:aluminum_ring"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "modern_industrialization:aluminum_ring"
+  }
+}

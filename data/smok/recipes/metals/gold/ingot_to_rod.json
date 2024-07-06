@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "processingTime": 100,
+  "ingredients": [
+    {
+      "tag": "c:gold_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:gold_rod"
+    }
+  ]
+}

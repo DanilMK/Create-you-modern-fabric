@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:battery_alloy_plates"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:battery_alloy_curved_plate"
+    }
+  ]
+}

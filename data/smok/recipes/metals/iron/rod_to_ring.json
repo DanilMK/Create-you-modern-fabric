@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:iron_rods"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:iron_ring"
+    }
+  ]
+}

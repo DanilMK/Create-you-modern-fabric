@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:aluminum_plates"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:aluminum_curved_plate"
+    }
+  ]
+}

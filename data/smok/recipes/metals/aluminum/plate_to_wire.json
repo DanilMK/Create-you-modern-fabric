@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "c:aluminum_plates"
+	},
+	"result": {
+		"item": "modern_industrialization:aluminum_wire",
+		"count": 2
+	}
+}

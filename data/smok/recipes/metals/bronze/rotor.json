@@ -1,0 +1,62 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "modern_industrialization:bronze_ring"
+  },
+  "loops": 4,
+  "results": [
+    {
+      "item": "modern_industrialization:bronze_rotor"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "modern_industrialization:bronze_ring"
+        },
+        {
+          "item": "modern_industrialization:bronze_blade"
+        }
+      ],
+      "results": [
+        {
+          "item": "modern_industrialization:bronze_ring"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "modern_industrialization:bronze_ring"
+        },
+        {
+          "item": "modern_industrialization:bronze_bolt"
+        }
+      ],
+      "results": [
+        {
+          "item": "modern_industrialization:bronze_ring"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "modern_industrialization:bronze_ring"
+        }
+      ],
+      "results": [
+        {
+          "item": "modern_industrialization:bronze_ring"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "modern_industrialization:bronze_ring"
+  }
+}

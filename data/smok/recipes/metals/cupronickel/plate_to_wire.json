@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "c:cupronickel_plates"
+	},
+	"result": {
+		"item": "modern_industrialization:cupronickel_wire",
+		"count": 2
+	}
+}

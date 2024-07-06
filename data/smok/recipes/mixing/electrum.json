@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "c:gold_ingots"
+    },
+    {
+      "tag": "c:silver_ingots"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "modern_industrialization:electrum_ingot"
+    }
+  ]
+}

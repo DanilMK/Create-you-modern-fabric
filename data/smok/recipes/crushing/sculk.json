@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:sculk"
+    }
+  ],
+  "processingTime": 120,
+  "results": [
+    {
+      "item": "create:experience_nugget"
+    }
+  ]
+}

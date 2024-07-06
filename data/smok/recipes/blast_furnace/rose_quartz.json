@@ -1,0 +1,21 @@
+{
+  "type": "modern_industrialization:blast_furnace",
+  "eu": 32,
+  "duration": 250,
+  "item_inputs": 
+	{
+	  "item": "create:rose_quartz",
+	  "amount": 1
+	},
+  "fluid_inputs": 
+	{
+	  "fluid": "modern_industrialization:oxygen",
+	  "amount": 200
+	},
+  "item_outputs": [
+    {
+      "item": "create:polished_rose_quartz",
+      "amount": 1
+    }
+  ]
+}

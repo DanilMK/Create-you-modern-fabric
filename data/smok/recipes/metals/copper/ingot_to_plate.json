@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:copper_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:copper_plate"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "type": "modern_industrialization:centrifuge",
+  "eu": 4,
+  "duration": 240,
+  "item_inputs": {
+    "item": "minecraft:soul_soil",
+    "amount": 9
+  },
+    "item_outputs": [
+      {
+        "item": "minecraft:gravel",
+        "amount": 1
+      },
+      {
+        "item": "minecraft:glowstone_dust",
+        "amount": 1
+      },
+      {
+        "item": "modern_industrialization:coal_dust",
+        "amount": 1
+      },
+      {
+		"item": "modern_industrialization:yttrium_tiny_dust",
+		"amount": 3,
+        "probability" : 0.2
+      }
+    ],
+    "fluid_outputs": [
+		{
+			"fluid" : "modern_industrialization:methane",
+			"amount": 100
+		},
+		{
+		  "fluid" : "modern_industrialization:helium",
+		  "amount": 20,
+		  "probability" : 0.5
+		}
+	]
+  
+}

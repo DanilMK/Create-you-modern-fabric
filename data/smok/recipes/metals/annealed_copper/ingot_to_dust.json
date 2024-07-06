@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "processingTime": 100,
+    "ingredients": [
+        {
+            "tag": "c:annealed_copper_ingots"
+        }
+    ],
+    "results": [
+        {
+            "item": "modern_industrialization:annealed_copper_dust"
+        }
+    ]
+}

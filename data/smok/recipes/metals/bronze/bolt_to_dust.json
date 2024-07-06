@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "processingTime": 100,
+    "ingredients": [
+        {
+            "item": "modern_industrialization:bronze_bolt"
+        }
+    ],
+    "results": [
+        {
+            "item": "modern_industrialization:bronze_tiny_dust",
+			"count": 2
+        }
+    ]
+}

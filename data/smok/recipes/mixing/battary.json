@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "c:lead_ingots"
+    },
+    {
+      "tag": "c:antimony_ingots"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "modern_industrialization:battery_alloy_ingot"
+    }
+  ]
+}

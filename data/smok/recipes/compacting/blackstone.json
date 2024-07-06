@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:blackstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:scoria"
+    },
+    {
+	  "amount": 8100,
+      "fluid": "modern_industrialization:crude_oil"
+    }
+  ]
+}

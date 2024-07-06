@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:battery_alloy_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:battery_alloy_plate"
+    }
+  ]
+}

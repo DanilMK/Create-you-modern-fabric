@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "modern_industrialization:copper_wire"
+	},
+	"result": {
+		"item": "modern_industrialization:copper_fine_wire",
+		"count": 2
+	}
+}

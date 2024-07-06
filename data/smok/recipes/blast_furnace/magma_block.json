@@ -1,0 +1,16 @@
+{
+  "type": "modern_industrialization:blast_furnace",
+  "eu": 8,
+  "duration": 120,
+  "item_inputs": 
+	{
+	  "item": "minecraft:blackstone",
+	  "amount": 1
+	},
+  "item_outputs": [
+    {
+      "item": "minecraft:magma_block",
+      "amount": 1
+    }
+  ]
+}

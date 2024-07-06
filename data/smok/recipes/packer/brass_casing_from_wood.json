@@ -1,0 +1,18 @@
+{
+  "type": "modern_industrialization:packer",
+  "duration": 50,
+  "eu": 2,
+  "item_inputs": [
+    {
+      "tag": "c:stripped_woods"
+    },
+    {
+      "tag": "c:brass_ingots"
+    }
+  ],
+  "item_outputs": [
+    {
+      "item": "create:brass_casing"
+    }
+  ]
+}

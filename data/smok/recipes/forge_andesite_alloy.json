@@ -1,0 +1,13 @@
+{
+  "type": "modern_industrialization:forge_hammer",
+  "eu": 0,
+  "duration": 0,
+  "item_inputs": {
+    "item": "create:andesite_alloy",
+    "amount": 1
+  },
+  "item_outputs": {
+    "item": "createdeco:andesite_sheet",
+    "amount": 8
+  }
+}

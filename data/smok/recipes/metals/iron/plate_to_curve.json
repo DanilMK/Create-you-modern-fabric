@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:iron_plates"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:iron_curved_plate"
+    }
+  ]
+}

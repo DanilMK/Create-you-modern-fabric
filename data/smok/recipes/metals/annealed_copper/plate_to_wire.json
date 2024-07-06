@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "c:annealed_copper_plates"
+	},
+	"result": {
+		"item": "modern_industrialization:annealed_copper_wire",
+		"count": 2
+	}
+}

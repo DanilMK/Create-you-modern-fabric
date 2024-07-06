@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:lead_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:lead_plate"
+    }
+  ]
+}

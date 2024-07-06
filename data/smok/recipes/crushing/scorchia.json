@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:scorchia"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "item": "minecraft:soul_soil"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:soul_sand"
+    },
+    {
+      "chance": 0.6,
+      "item": "modern_industrialization:cadmium_tiny_dust"
+    },
+    {
+      "chance": 0.1,
+      "item": "modern_industrialization:copper_tiny_dust"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "modern_industrialization:chemical_reactor",
+  "eu": 8,
+  "duration": 200,
+  "item_inputs" : [
+    {
+      "item": "minecraft:magma_block",
+      "amount": 1
+    }
+  ],
+  "fluid_inputs" : [
+    {
+      "fluid": "modern_industrialization:acrylic_glue",
+      "amount": 300
+    },
+    {
+      "fluid": "modern_industrialization:hydrochloric_acid",
+      "amount": 150
+    }
+  ],
+  "item_outputs" : {
+	"item" :  "minecraft:verdant_froglight",
+	"amount": 1
+  }
+}

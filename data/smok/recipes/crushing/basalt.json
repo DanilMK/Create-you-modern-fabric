@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "chance": 0.5,
+      "item": "modern_industrialization:quartz_tiny_dust"
+    },
+    {
+      "chance": 0.15,
+      "item": "modern_industrialization:bauxite_tiny_dust"
+    },
+    {
+      "chance": 0.1,
+      "item": "modern_industrialization:iron_tiny_dust"
+    }
+  ]
+}

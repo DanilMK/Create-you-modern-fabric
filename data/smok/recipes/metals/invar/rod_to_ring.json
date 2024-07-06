@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:invar_rods"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:invar_ring"
+    }
+  ]
+}

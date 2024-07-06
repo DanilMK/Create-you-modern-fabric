@@ -1,0 +1,62 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "modern_industrialization:steel_ring"
+  },
+  "loops": 4,
+  "results": [
+    {
+      "item": "modern_industrialization:steel_gear"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "modern_industrialization:steel_ring"
+        },
+        {
+          "item": "modern_industrialization:steel_plate"
+        }
+      ],
+      "results": [
+        {
+          "item": "modern_industrialization:steel_ring"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "modern_industrialization:steel_ring"
+        },
+        {
+          "item": "modern_industrialization:steel_bolt"
+        }
+      ],
+      "results": [
+        {
+          "item": "modern_industrialization:steel_ring"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "modern_industrialization:steel_ring"
+        }
+      ],
+      "results": [
+        {
+          "item": "modern_industrialization:steel_ring"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "modern_industrialization:steel_ring"
+  }
+}

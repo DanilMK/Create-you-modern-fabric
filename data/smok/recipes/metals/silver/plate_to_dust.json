@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "processingTime": 100,
+    "ingredients": [
+        {
+            "tag": "c:silver_plates"
+        }
+    ],
+    "results": [
+        {
+            "item": "modern_industrialization:silver_dust"
+        }
+    ]
+}

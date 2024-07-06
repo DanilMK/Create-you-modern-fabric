@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:lead_dusts"
+    },
+    {
+      "tag": "c:antimony_dusts"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "modern_industrialization:battery_alloy_dust"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "processingTime": 100,
+  "ingredients": [
+    {
+      "tag": "c:tin_rods"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:tin_bolt",
+	  "count": 2
+    }
+  ]
+}

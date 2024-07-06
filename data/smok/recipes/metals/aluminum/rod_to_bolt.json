@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "processingTime": 100,
+  "ingredients": [
+    {
+      "tag": "c:aluminum_rods"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:aluminum_bolt",
+	  "count": 2
+    }
+  ]
+}

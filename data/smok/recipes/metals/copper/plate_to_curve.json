@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:copper_plates"
+    }
+  ],
+  "results": [
+    {
+      "item": "modern_industrialization:copper_curved_plate"
+    }
+  ]
+}

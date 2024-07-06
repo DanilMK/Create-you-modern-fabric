@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "processingTime": 100,
+    "ingredients": [
+        {
+            "tag": "c:cupronickel_ingots"
+        }
+    ],
+    "results": [
+        {
+            "item": "modern_industrialization:cupronickel_dust"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:iron_dusts"
+    },
+    {
+      "tag": "c:nickel_dusts"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "modern_industrialization:invar_dust"
+    }
+  ]
+}
