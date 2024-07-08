@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "data": {
+            "Name": "farmersdelight:wild_onions"
+          },
+          "weight": 4
+        },
+        {
+          "data": {
+            "Name": "farmersdelight:wild_potatoes"
+          },
+          "weight": 7
+        },
+        {
+          "data": {
+            "Name": "minecraft:allium"
+          },
+          "weight": 7
+        },
+        {
+          "data": {
+            "Name": "minecraft:grass"
+          },
+          "weight": 50
+        }
+      ]
+    }
+  }
+}
